@@ -1,11 +1,11 @@
 # Day-Planner
 https://ahmedmh9.github.io/day-Planner-/
-this is an aplication that allows the user to save event of each hour of the day.
-simple calendar application that allows a user to save events for each hour of the day.
+this is an aplication that allows the user to save events,
+simple calendar application that allows a user to save events for each hour of the working day.
 we had to use
-HTML
-CSS
-JS
+HTML,
+CSS,
+JS,
 jQuery.
 
 You'll need to use the Moment.js library to work with date and time.
