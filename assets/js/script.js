@@ -11,7 +11,7 @@ let getTextarea = function (hour) {
    if (!discribtion) {
        discribtion = [];
    } else {
-      for (let i =0; i< schedule.length; i++) {
+      for (let i =0; i< discribtion.length; i++) {
           if (discribtion[i].hour == hour) {
               return discribtion[i].text;
            }
