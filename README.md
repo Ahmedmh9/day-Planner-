@@ -1,5 +1,4 @@
 # Day-Planner
-https://ahmedmh9.github.io/day-Planner-/
 this is an aplication that allows the user to save events,
 simple calendar application that allows a user to save events for each hour of the working day.
 we had to use
